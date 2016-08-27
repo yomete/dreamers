@@ -33,7 +33,7 @@ Credits End -->
 	<div class="container" id="header">
 		<div class="row">
 			<nav>
-				<a href="index.html"><img class="headerlogo" src="img/drmrs-logo.png" width="70"></a>
+				<a href="index.php"><img class="headerlogo" src="img/drmrs-logo.png" width="70"></a>
 			</nav>
 		</div>
 	</div>

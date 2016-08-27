@@ -29,7 +29,7 @@ Credits End -->
 	            <div class="col-xs-12 text slider_text">
 	                <span class=" text slider_span">Covenant University</span>
 	                <h1 class="text slider_h1">Dreamers Project</h1>
-	                <a href="dreamers.html" class=" transition explore btn btn-default">Explore More</a>
+	                <a href="dreamers.php" class=" transition explore btn btn-default">Explore More</a>
 	            </div>
 	        </div>
 	    </div>
